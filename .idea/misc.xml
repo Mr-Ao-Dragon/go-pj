@@ -4,12 +4,8 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="60" />
+          <option name="caretOffset" value="177" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/main.go" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="0" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/readme.md" />
         </OpenedFileInfo>
       </list>
     </option>

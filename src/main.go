@@ -1,7 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
+//import "github.com/beego/beego/v2/server/web"
 func main() {
-	fmt.Println("tset")
+	sum := 0
+loop:
+	for i := 0; i <= 2; i++ {
+		sum += i
+	}
+	fmt.Println(sum)
+	goto loop
 }
